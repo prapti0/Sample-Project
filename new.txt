@@ -1,1 +1,5 @@
-This file is created inmaster[D[D[D[D[D[D [C[Dmaster branch
+
+This file is created in master branch
+
+Today we are practicing git merge
+

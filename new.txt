@@ -1,1 +1,1 @@
-This is my new file 
+Today we are practicing git merge
